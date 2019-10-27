@@ -1,6 +1,6 @@
 ﻿## ABOUT
 This program is an implementation and test of the decision tree learning algorithm (see Mitchell Chapter 3).   
-
+ 
 This uses the following datasets to test the code:  
 Dataset  1. It’s  divided  into  3  parts: training  (for  learning  the model), validation  (for  pruning),  test(for testing performance). 
 Dataset  2. It’s  divided  into  3  parts: training  (for  learning the  model), validation  (for  pruning),  test(for testing performance). 
@@ -415,5 +415,5 @@ Accuracy of best pruned tree against test data is : 0.751667
 Number of nodes pruned = 105 out of 298  
 
 ## LICENSE  
-[Apache 2.0 License](https://github.com/shoeloh/craps/blob/master/LICENSE)  
+[MIT License](https://github.com/shoeloh/decision-trees/blob/master/LICENSE)  
 
