@@ -1,4 +1,4 @@
-﻿## ABOUT
+﻿# ABOUT
 This program is an implementation and test of the decision tree learning algorithm (see Mitchell Chapter 3).   
   
 This uses the following datasets to test the code:  
@@ -25,17 +25,17 @@ According to this tree, if wesley = 0 and honor = 0 and barclay = 0, then the cl
 
 Program was written in c++  
 
-## COMPILING, INSTALLATION AND RUNNING  
+# COMPILING, INSTALLATION AND RUNNING  
 Program files are decision_trees.cpp, ID3.cpp and ID3.hpp 
 
-# Compiling:  
+## Compiling:  
 
 Easy to compile with g++. Just include the main <decision_trees.cpp>, header <ID3.hpp> and class <ID3.cpp> files.  
 
 Example compile command:  
 g++ decision_trees.cpp ID3.cpp ID3.hpp -o runID3.out  
 
-# How to run the code and a genric run command statement along with an example test cases below the general statement.  
+## How to run the code and a genric run command statement along with an example test cases below the general statement.  
 
 Assume the executable is runID3.out as shown in Compiling: section.  
 
