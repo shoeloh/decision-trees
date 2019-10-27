@@ -1,5 +1,5 @@
 ﻿## ABOUT
-This program is an implementation and test of the decision tree learning algorithm (see Mitchell Chapter 3).  
+This program is an implementation and test of the decision tree learning algorithm (see Mitchell Chapter 3).   
 
 This uses the following datasets to test the code:  
 Dataset  1. It’s  divided  into  3  parts: training  (for  learning  the model), validation  (for  pruning),  test(for testing performance). 
