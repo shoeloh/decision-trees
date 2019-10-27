@@ -1,6 +1,6 @@
 ﻿## ABOUT
 This program is an implementation and test of the decision tree learning algorithm (see Mitchell Chapter 3).   
- 
+
 This uses the following datasets to test the code:  
 Dataset  1. It’s  divided  into  3  parts: training  (for  learning  the model), validation  (for  pruning),  test(for testing performance). 
 Dataset  2. It’s  divided  into  3  parts: training  (for  learning the  model), validation  (for  pruning),  test(for testing performance). 
@@ -66,18 +66,18 @@ Results for data_sets1:
 Accuracy for the Decision Tree on the test set is: 0.7585  
 
 Post pruned decision tree table:  
-| L| M| Post pruned decision tree accuracy against test data |   
-| ----| ----| ---- |   
-| 100| 1| .7605 |   
-| 100| 3| .7695 |   
-| 100| 5| .7630 |   
-| 100| 10| .7610 |   
-| 100| 15| .7640 |   
-| 100| 20| .7725 |   
-| 100| 25| .7760 |   
-| 100| 30| .7655 |   
-| 100| 35| .7715 |   
-| 10| 25| .7680 |   
+| L | M | Post pruned decision tree accuracy against test data |   
+| ---- | ---- | ---- |   
+| 100 | 1 | .7605 |   
+| 100 | 3 | .7695 |   
+| 100 | 5 | .7630 |   
+| 100 | 10 | .7610 |   
+| 100 | 15 | .7640 |   
+| 100 | 20 | .7725 |   
+| 100 | 25 | .7760 |   
+| 100 | 30 | .7655 |   
+| 100 | 35 | .7715 |   
+| 10 | 25 | .7680 |   
 
 -------------------------------------------------  
 Results for data_sets2:  
@@ -87,16 +87,16 @@ Accuracy for the Decision Tree on the test set is: 0.7233
 Post pruned decision tree table:  
 | L | M | Post pruned decision tree accuracy against test data |   
 | ---- | ---- | ---- |   
-| 100| 1| .7333 |   
-| 100| 3| .7383 |   
-| 100| 5| .7350 |   
-| 100| 10| .7267 |   
-| 100| 15| .7417 |   
-| 100| 20| .7283 |   
-| 100| 25| .7317 |   
-| 100| 30| .7283 |   
-| 100| 35| .7500 |   
-| 10| 15| .7250 |   
+| 100 | 1 | .7333 |   
+| 100 | 3 | .7383 |   
+| 100 | 5 | .7350 |   
+| 100 | 10 | .7267 |   
+| 100 | 15 | .7417 |   
+| 100 | 20 | .7283 |   
+| 100 | 25 | .7317 |   
+| 100 | 30 | .7283 |   
+| 100 | 35 | .7500 |   
+| 10 | 15 | .7250 |   
 
 ---------------------------------------------------------------------------  
 Example Console Output  
